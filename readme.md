@@ -17,10 +17,12 @@ Projetos focados nos primeiros passos com a linguagem, onde trabalhei com entrad
 
 ### 2. Programação Orientada a Objetos (POO)
 
-Exercícios voltados para os pilares da POO, com foco em abstração e encapsulamento utilizando classes e métodos.
+Exercícios voltados para os pilares da POO: Abstração, encapsulamento, hierarquia e polimorfismo.
 
 - 🐾 **[003] - ControleBanhoPetshop**  
 - 🚗 **[004] - ControleCarro**  
+- 🕒 **[005] - ClockProject**
+- 🎟️ **[006] - ControleDeIngressos**
 
 ---
 
