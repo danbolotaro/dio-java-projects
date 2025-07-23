@@ -19,7 +19,9 @@ public class Main {
             option = scanner.nextInt();
 
             switch (option) {
-                case 1 -> car.start();
+                case 1 -> {
+                    car.start();
+                }
                 case 2 -> car.stop();
                 case 3 -> car.accelerate();
                 case 4 -> car.decelerate();
