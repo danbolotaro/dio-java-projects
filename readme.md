@@ -10,19 +10,20 @@ Este repositório reúne meus projetos de estudo em Java, organizados por tópic
 
 Projetos focados nos primeiros passos com a linguagem, onde trabalhei com entrada e saída de dados, variáveis, estrutura de decisão e repetição.
 
-- 🧾 **[001] - ContaTerminal**  
-- 🔄 **[002] - DesafioControleFluxo**  
+- 🧾 **[001] - ContaTerminal**
+- 🔄 **[002] - DesafioControleFluxo**
 
 ---
 
 ### 2. Programação Orientada a Objetos (POO)
 
-Exercícios voltados para os pilares da POO: Abstração, encapsulamento, hierarquia e polimorfismo.
+Exercícios voltados para os pilares da POO: Abstração, encapsulamento, hierarquia, polimorfismo e interfaces.
 
-- 🐾 **[003] - ControleBanhoPetshop**  
-- 🚗 **[004] - ControleCarro**  
+- 🐾 **[003] - ControleBanhoPetshop**
+- 🚗 **[004] - ControleCarro**
 - 🕒 **[005] - ClockProject**
 - 🎟️ **[006] - ControleDeIngressos**
+- ⬜ **[007] - CalcularArea**
 
 ---
 
