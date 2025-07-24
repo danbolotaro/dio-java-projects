@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ada0b8ed-0a05-444c-8f8d-8676cb33e7bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/get-started/src/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get-started/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[004] - ControleCarro/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/[004] - ControleCarro/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ada0b8ed-0a05-444c-8f8d-8676cb33e7bb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,19 +55,6 @@
       <recent name="C:\Users\usuario\www\Java\dio-projects" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="dio-projects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="dio-projects" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,6 +80,7 @@
       <workItem from="1752927413456" duration="221000" />
       <workItem from="1753151850441" duration="130000" />
       <workItem from="1753152116218" duration="35000" />
+      <workItem from="1753314551729" duration="1993000" />
     </task>
     <servers />
   </component>

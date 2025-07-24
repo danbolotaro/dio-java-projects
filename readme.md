@@ -24,6 +24,7 @@ Exercícios voltados para os pilares da POO: Abstração, encapsulamento, hierar
 - 🕒 **[005] - ClockProject**
 - 🎟️ **[006] - ControleDeIngressos**
 - ⬜ **[007] - CalcularArea**
+- 📞 **[008] - IphoneProject**
 
 ---
 
